@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sınav-1-1473", "sınav-1-1473\sınav-1-1473.csproj", "{77D4D59D-56A4-4A25-9081-9790C17BD9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D4D59D-56A4-4A25-9081-9790C17BD9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D4D59D-56A4-4A25-9081-9790C17BD9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D4D59D-56A4-4A25-9081-9790C17BD9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D4D59D-56A4-4A25-9081-9790C17BD9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4112B1F0-2653-4B21-99A9-4C0F5FC5447B}
+	EndGlobalSection
+EndGlobal
